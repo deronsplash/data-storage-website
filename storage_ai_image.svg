@@ -1,0 +1,18 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="900" height="500" viewBox="0 0 900 500">
+<rect width="900" height="500" fill="#f8f1d8"/>
+<text x="450" y="55" text-anchor="middle" font-family="Arial" font-size="32" font-weight="bold" fill="#003366">HDD vs SSD Data Storage</text>
+<rect x="90" y="120" width="300" height="250" rx="24" fill="#d9e6f2" stroke="#003366" stroke-width="5"/>
+<circle cx="240" cy="245" r="85" fill="#ffffff" stroke="#003366" stroke-width="5"/>
+<circle cx="240" cy="245" r="18" fill="#003366"/>
+<line x1="240" y1="245" x2="315" y2="200" stroke="#003366" stroke-width="8" stroke-linecap="round"/>
+<text x="240" y="410" text-anchor="middle" font-family="Arial" font-size="28" font-weight="bold" fill="#003366">Hard Disk Drive</text>
+<text x="240" y="445" text-anchor="middle" font-family="Arial" font-size="20" fill="#003366">More capacity for lower cost</text>
+<rect x="510" y="135" width="300" height="220" rx="28" fill="#dff2d9" stroke="#1f5e20" stroke-width="5"/>
+<rect x="560" y="185" width="200" height="90" rx="12" fill="#ffffff" stroke="#1f5e20" stroke-width="4"/>
+<line x1="585" y1="210" x2="735" y2="210" stroke="#1f5e20" stroke-width="5"/>
+<line x1="585" y1="235" x2="735" y2="235" stroke="#1f5e20" stroke-width="5"/>
+<line x1="585" y1="260" x2="735" y2="260" stroke="#1f5e20" stroke-width="5"/>
+<text x="660" y="410" text-anchor="middle" font-family="Arial" font-size="28" font-weight="bold" fill="#1f5e20">Solid-State Drive</text>
+<text x="660" y="445" text-anchor="middle" font-family="Arial" font-size="20" fill="#1f5e20">Faster and more durable</text>
+<text x="450" y="485" text-anchor="middle" font-family="Arial" font-size="14" fill="#444">AI-generated image created using ChatGPT by OpenAI, edited by Deron Acquaye, May 2026.</text>
+</svg>
